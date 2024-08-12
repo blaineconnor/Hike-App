@@ -17,7 +17,7 @@ struct CustomCircleView: View {
                 LinearGradient(
                     colors: [
                         .colorIndigoMedium,
-                        .colorSolmonLight
+                        .colorSalmonLight
                     ],
                     startPoint: isAnimateGradient ? .topLeading : .bottomLeading,
                     endPoint: isAnimateGradient ? .bottomTrailing : .topTrailing

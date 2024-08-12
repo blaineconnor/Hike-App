@@ -76,7 +76,8 @@ struct MotionAnimationView: View {
 
 #Preview {
     ZStack {
-        Color.teal.ignoresSafeArea()
+        Color.black
+            .ignoresSafeArea()
         
         MotionAnimationView()
     }
