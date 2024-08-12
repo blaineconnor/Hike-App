@@ -132,7 +132,7 @@ struct SettingsView: View {
                 
                 CustomListRowView(rowLabel: "Application", rowIcon: "apps.iphone", rowContent: "HIKE", rowTintColor: .blue)
                 
-                CustomListRowView(rowLabel: "Compatibility", rowIcon: "info.circle", rowContent: "iOS 16.0", rowTintColor: .red)
+                CustomListRowView(rowLabel: "Compatibility", rowIcon: "info.circle", rowContent: "iOS 16.4", rowTintColor: .red)
                 
                 CustomListRowView(rowLabel: "Texhnology", rowIcon: "swift", rowContent: "SwiftUI", rowTintColor: .orange)
                 
