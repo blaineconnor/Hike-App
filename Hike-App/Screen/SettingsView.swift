@@ -23,9 +23,7 @@ struct SettingsView: View {
     var body: some View {
         List {
             // MARK: - SECTION: HEADER
-            
             Section {
-                
                 HStack {
                     Spacer()
                     Image(systemName: "laurel.leading")
